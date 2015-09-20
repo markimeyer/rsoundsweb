@@ -1,0 +1,405 @@
+<!doctype html>
+
+<!--[if IE 7 ]>
+<html lang="en-gb" class="isie ie7 oldie no-js">
+<![endif]-->
+
+<!--[if IE 8 ]>
+<html lang="en-gb" class="isie ie8 oldie no-js">
+<![endif]-->
+
+<!--[if IE 9 ]>
+<html lang="en-gb" class="isie ie9 no-js">
+<![endif]-->
+
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en-gb" class="no-js">
+<!--<![endif]-->
+
+    <head>
+        <title>Piter Punk | Random Sounds</title>
+        
+        <meta charset="utf-8">
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <link rel="shortcut icon" href="../public/img/favicon.ico">
+        <!-- Facebook Open Graph -->
+        <meta property="og:title" content="Piter Punk | Random Sounds" />
+        <meta property="og:locale" content="es_ES" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,800,700italic,700,600italic,600,400italic,300italic,300|Roboto:100,300,400,500,700&amp;subset=latin,latin-ext" type="text/css" />
+        
+        <!--[if lt IE 9]>
+        <script src="../http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        <link rel="stylesheet" href="../public/css/reset.css" />
+        <link rel="stylesheet" href="../public/css/style.css" />
+        <link rel="stylesheet" href="../public/css/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="../public/css/responsive-leyouts.css" media="screen" />
+        <link rel="stylesheet" href="../public/js/sticky-menu/core.css">
+        <link rel="stylesheet" href="../public/js/jcarousel-master/examples/basic/jcarousel.basic.css">
+        <link rel="stylesheet" href="../public/js/tabs/tabwidget/tabwidget.css" />
+
+        <script src="..//public/js/universal/jquery.js"></script>
+    </head>
+
+    <body>
+        <div class="site_wrapper">
+            				
+				<script>
+				  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				  ga('create', 'UA-55693283-1', 'auto');
+				  ga('send', 'pageview');
+
+				</script>
+
+				<header >
+					<div id="trueHeader">
+						<div class="wrapper">
+							<div class="container">
+								<div class="logo_main">
+                                    <a href="../Random Sounds" id="logo"></a>
+                                </div>
+								<div class="menu_main">
+									<div class="joosa top_links"><strong></strong> <a href="../contacto" ></a></div>
+									<nav id="access" class="access" role="navigation">
+										<div id="menu" class="menu">
+											<ul id="tiny">
+												<li>
+													<a href="../" >Inicio</a>
+												</li>
+												<li>
+													<a href="../distribucion" >Distribución</a>
+												</li>
+												<li>
+													<a href="../servicios" >Servicios</a>
+												</li>
+												<li>
+													<a href="../artistas" >Artistas</a>
+												</li>
+												<li>
+													<a href="../faqs" >FAQs</a>
+												</li>
+												<li>
+													<a href="../contacto" >Contacto</a>
+												</li>
+											</ul>
+										</div>
+									</nav>
+								</div>
+							</div>
+						</div>
+					</div>
+				</header>
+            <div class="clearfix"></div>
+
+            <div class="page_title">
+                <div class="container">
+                    <div class="title">
+                        <h1>Piter Punk</h1>
+                    </div>
+                    <div class="pagenation">&nbsp;<a href="../">Inicio</a> <i>/</i> <a href="../artistas">Artistas</a> <i>/</i> Piter Punk</div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="content_left">
+                    <div class="blog_post">
+                        <div class="blog_postcontent">
+                            <div class="image_frame">
+                                <div class="jcarousel">
+                                    <ul>
+                                        <li><img src="../public/img/artists/gallery/piterpunk1.jpg" alt="" /></li>
+                                        <li><img src="../public/img/artists/gallery/piterpunk2.jpg" alt="" /></li>
+                                        <li><img src="../public/img/artists/gallery/piterpunk3.jpg" alt="" /></li>
+                                    </ul>
+
+                                    <a href="../#" class="jcarousel-control-prev" style="position:absolute;top:165px;left:10px;width:30px;height:30px;text-align:center;background:#4E443C;color:#fff;text-decoration:none;text-shadow:0 0 1px #000;font:24px/27px Arial, sans-serif;-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px;-webkit-box-shadow:0 0 2px #999;-moz-box-shadow:0 0 2px #999;box-shadow:0 0 2px #999;">&lsaquo;</a>
+
+                                    <a href="../#" class="jcarousel-control-next" style="position:absolute;top:165px;right:10px;width:30px;height:30px;text-align:center;background:#4E443C;color:#fff;text-decoration:none;text-shadow:0 0 1px #000;font:24px/27px Arial, sans-serif;-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px;-webkit-box-shadow:0 0 2px #999;-moz-box-shadow:0 0 2px #999;box-shadow:0 0 2px #999;">&rsaquo;</a>
+                                </div>
+                            </div>
+                            
+                            <a href="../#" class="date" style="/*border:1px solid red;*/padding:0;width:60px;height:60px;">
+                                <img src="../public/img/artists/thumbs/16.jpg" alt="" style="width:60px;height:60px;" />
+                            </a>
+                            
+                            <h3><a href="../#">Piter Punk</a></h3>
+                            
+                            <ul class="post_meta_links">
+                                <li class="post_by"><a href="../#">Punk Rock</a></li>
+                                <!--<li class="post_categoty"><a href="../#">23/05/2014</a></li>-->
+                            </ul>
+
+                            <div class="post_info_content" style="text-align:justify;">
+                                Banda paraguaya de punk rock formada en el 2002.
+                            </div>
+
+                            <div class="clearfix"></div>
+
+                            <div id="albums" style="margin-left:80px;">
+                                <h2 style="margin-top:20px;margin-bottom:5px;">Álbumes</h2>
+                                    <div style="width:130px;height:155px;border:1px solid #dedede;position:relative;float:left;margin-right:10px;padding:2px;">
+                                    <div style="width:130px;height:130px;">
+                                        <img src="../public/img/artists/albums/thumbs/19.jpg" alt="" style="width:130px;height:130px;" />
+                                    </div>
+                                    
+                                    <div style="font-size:10px;font-weight:bold;line-height:13px;text-align:right;">¡Vuelvo Hoy!</div>
+                                    <div style="font-size:10px;line-height:13px;text-align:right;">2014</div>
+                                </div>
+                            </div>
+
+                            <div class="clearfix"></div>
+
+                            <div id="members" style="margin-left:80px;">
+                                <h2 style="margin-top:20px;margin-bottom:5px;">Miembros</h2>
+                                    <div style="width:130px;height:155px;border:1px solid #dedede;position:relative;float:left;margin-right:10px;padding:2px;">
+                                    <div style="width:130px;height:130px;">
+                                        <img src="../public/img/artists/members/thumbs/30.jpg" alt="" style="width:130px;height:130px;" />
+                                    </div>
+                                    
+                                    <div style="font-size:10px;font-weight:bold;line-height:13px;text-align:right;">Gabo Baierling</div>
+                                    <div style="font-size:10px;line-height:13px;text-align:right;">Voz principal</div>
+                                </div>
+                                                                <div style="width:130px;height:155px;border:1px solid #dedede;position:relative;float:left;margin-right:10px;padding:2px;">
+                                    <div style="width:130px;height:130px;">
+                                        <img src="../public/img/artists/members/thumbs/29.jpg" alt="" style="width:130px;height:130px;" />
+                                    </div>
+                                    
+                                    <div style="font-size:10px;font-weight:bold;line-height:13px;text-align:right;">Manolo Bejarano</div>
+                                    <div style="font-size:10px;line-height:13px;text-align:right;">Guitarra y Coros</div>
+                                </div>
+                                                                <div style="width:130px;height:155px;border:1px solid #dedede;position:relative;float:left;margin-right:10px;padding:2px;">
+                                    <div style="width:130px;height:130px;">
+                                        <img src="../public/img/artists/members/thumbs/28.jpg" alt="" style="width:130px;height:130px;" />
+                                    </div>
+                                    
+                                    <div style="font-size:10px;font-weight:bold;line-height:13px;text-align:right;">Juanjo Isasi</div>
+                                    <div style="font-size:10px;line-height:13px;text-align:right;">Batería</div>
+                                </div>
+                                                                <div style="width:130px;height:155px;border:1px solid #dedede;position:relative;float:left;margin-right:10px;padding:2px;">
+                                    <div style="width:130px;height:130px;">
+                                        <img src="../public/img/artists/members/thumbs/27.jpg" alt="" style="width:130px;height:130px;" />
+                                    </div>
+                                    
+                                    <div style="font-size:10px;font-weight:bold;line-height:13px;text-align:right;">Diego Fleitas</div>
+                                    <div style="font-size:10px;line-height:13px;text-align:right;">Guitarra líder y Coros</div>
+                                </div>
+                                                                <div style="width:130px;height:155px;border:1px solid #dedede;position:relative;float:left;margin-right:10px;padding:2px;">
+                                    <div style="width:130px;height:130px;">
+                                        <img src="../public/img/artists/members/thumbs/26.jpg" alt="" style="width:130px;height:130px;" />
+                                    </div>
+                                    
+                                    <div style="font-size:10px;font-weight:bold;line-height:13px;text-align:right;">Ángel Recalde</div>
+                                    <div style="font-size:10px;line-height:13px;text-align:right;">Bajo</div>
+                                </div>
+                                                                <div style="width:130px;height:155px;border:1px solid #dedede;position:relative;float:left;margin-right:10px;padding:2px;">
+                                    <div style="width:130px;height:130px;">
+                                        <img src="../public/img/artists/members/thumbs/25.jpg" alt="" style="width:130px;height:130px;" />
+                                    </div>
+                                    
+                                    <div style="font-size:10px;font-weight:bold;line-height:13px;text-align:right;">Kike Nuñez</div>
+                                    <div style="font-size:10px;line-height:13px;text-align:right;">Teclado y Coros</div>
+                                </div>
+                            </div>
+
+                            <div class="sharepost" style="margin:20px 0px 5px 80px;">
+                                <h4 style="margin-bottom:5px;"><i>Redes Sociales</i></h4>
+                                
+                                <ul>
+                                    <li>
+                                        <a href="https://www.facebook.com/pages/Piter-Punk/1435388240026684" target="_blank">&nbsp;<i class="fa fa-facebook fa-lg"></i>&nbsp;</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://twitter.com/PiterPunk_Py" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="http://instagram.com/piterpunk_py" target="_blank"><i class="fa fa-instagram fa-lg"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="platform" style="margin:20px 0px 5px 80px;">
+                                <h4 style="margin-bottom:5px;"><i>Plataformas</i></h4>
+                                
+                                <ul>
+                                    <li>
+                                        <a href="https://itunes.apple.com/us/artist/piter-punk/id883822005" target="_blank">
+                                            <img src="../public/img/platforms/itunes.png" alt="" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.amazon.com/gp/product/B00KW99W3U/" target="_blank">
+                                            <img src="../public/img/platforms/amazon.png" alt="" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://play.google.com/store/music/artist/Piter_Punk?id=A3ma6egujpextb6uw6u7js5wxpa" target="_blank">
+                                            <img src="../public/img/platforms/google-play.png" alt="" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://open.spotify.com/artist/2JwGYWKzbcJBo9aIkbBT43" target="_blank">
+                                            <img src="../public/img/platforms/spotify.png" alt="" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.deezer.com/artist/5945924" target="_blank">
+                                            <img src="../public/img/platforms/deezer.png" alt="" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.rdio.com/artist/Piter_Punk/" target="_blank">
+                                            <img src="../public/img/platforms/rdio.png" alt="" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://listen.beatsmusic.com/artists/ar3435210" target="_blank">
+                                            <img src="../public/img/platforms/beats-music.png" alt="" />
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="right_sidebar">
+                    <div class="sidebar_widget">
+                        <div class="sidebar_title">
+                            <h3>Otros <i>Artistas</i></h3>
+                        </div>
+
+                        <ul class="arrows_list1">
+                            <li><a href="../artista/20"><i class="fa fa-angle-right"></i> Salamandra</a></li>
+                            <li><a href="../artista/21"><i class="fa fa-angle-right"></i> Bohemia Urbana</a></li>
+                            <li><a href="../artista/26"><i class="fa fa-angle-right"></i> Cien al Palo</a></li>
+                            <li><a href="../artista/22"><i class="fa fa-angle-right"></i> Banana Pereira y la República</a></li>
+                            <li><a href="../artista/19"><i class="fa fa-angle-right"></i> Chöpper</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="clearfix mar_top4"></div>
+                </div>
+            </div>
+
+            <div class="clearfix mar_top4"></div>
+            
+            
+			<div class="footer">
+				<div class="container">
+					<div class="one_third">
+						<!--<div class="footer_logo"><img src="../public/img/footer-logo.png" alt="" /></div>-->
+						<h2>Atención al <i>Cliente</i></h2>
+						<ul class="contact_address">
+							<li><i class="fa fa-map-marker fa-lg"></i>&nbsp; Patria esq. Brasilia<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edif. Villa Madrid<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asunción, Paraguay</li><br>
+							<li><i class="fa fa-phone"></i>&nbsp; +595 (971) 391 021</li>
+							<li><i class="fa fa-phone"></i>&nbsp; +595 (21) 200 931</li><br>
+							<li><i class="fa fa-clock-o"></i> Horarios de Atención:</li>
+							<li>Lunes a Viernes de 9 a 18 horas.</li>
+							<!--<li><img src="../public/img/footer-wmap.png" alt="" /></li>-->
+						</ul>
+					</div>
+
+					
+					<div id="redesociales" class="one_third">
+						<h2>Redes <i>Sociales</i></h2>
+						
+						<a href="https://www.facebook.com/RandomSounds" target="_blank">
+						<img src="../public/img/social-footer/facebookk.png" alt="Facebook" class="iconredes" />
+						</a>
+					
+						<a href="https://twitter.com/randomsounds_">
+						<img src="../public/img/social-footer/twitter.png" alt="Twitter" class="iconredes" />
+						</a>
+						
+						<a href="http://instagram.com/randomsounds_">
+						<img src="../public/img/social-footer/instagramm.png" alt="Instagram" class="iconredes" />
+						</a>
+					
+						<br>
+
+						<a href="https://www.youtube.com/user/RandomSoundsTV">
+						<img src="../public/img/social-footer/youtubee.png" alt="YouTube" class="iconredes" />
+						</a>
+					
+						<a href="https://www.linkedin.com/company/random-sounds">
+						<img src="../public/img/social-footer/linkedin.png" alt="LinkedIn" class="iconredes" />
+						</a>
+
+						<a href="https://plus.google.com/+RandomSoundsAsuncion">
+						<img src="../public/img/social-footer/google-plus.png" alt="Google Plus" class="iconredes" />
+						</a>
+
+					</div>
+					
+					<div class="third_custom">
+						
+						<h2>Enlaces <i>Internos</i></h2>
+						
+						<ul class="list">
+							<li><a href="../"><i class="fa fa-angle-right"></i> Inicio</a></li>
+							<li><a href="../servicios"><i class="fa fa-angle-right"></i> Servicios</a></li>
+							<li><a href="../artistas"><i class="fa fa-angle-right"></i> Artistas</a></li>
+							<li><a href="../distribucion"><i class="fa fa-angle-right"></i> Distribución</a></li>
+							<li><a href="../noticias"><i class="fa fa-angle-right"></i> Blog</a></li>
+							<li><a href="../faqs"><i class="fa fa-angle-right"></i> FAQs</a></li>
+							<li><a href="../contacto"><i class="fa fa-angle-right"></i> Contacto</a></li>
+						</ul>
+					
+					</div>
+
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="copyright_info">
+				<div class="container">
+					<div class="one_half">
+						<b>Copyright © 2015 Random Sounds. Todos los derechos reservados.</b>
+					</div>
+					
+				</div>
+			</div>
+            
+            <a href="../#" class="scrollup">Arriba</a>
+        </div>
+
+        <script src="../public/js/style-switcher/jquery-1.js"></script>
+        <script src="../public/js/style-switcher/styleselector.js"></script>
+        <script src="../public/js/mainmenu/ddsmoothmenu.js"></script>
+        <script src="../public/js/mainmenu/selectnav.js"></script>
+        <script src="../public/js/jcarousel-master/dist/jquery.jcarousel.min.js"></script>
+        <script src="../public/js/jcarousel-master/examples/basic/jcarousel.basic.js"></script>
+        <script src="../public/js/tabs/tabwidget/tabwidget.js"></script>
+        <script src="../public/js/mainmenu/scripts.js"></script>
+        
+        <script type="text/javascript">
+            $(document).ready(function(){
+                
+                $(window).scroll(function(){
+                    if ($(this).scrollTop() > 100) {
+                        $('.scrollup').fadeIn();
+                    } else {
+                        $('.scrollup').fadeOut();
+                    }
+                });
+            
+                $('.scrollup').click(function(){
+                    $("html, body").animate({ scrollTop: 0 }, 500);
+                    return false;
+                });
+            });
+        </script>
+
+        <script src="../public/js/sticky-menu/core.js"></script>
+        <script src="../public/js/sticky-menu/modernizr.custom.75180.js"></script>
+        <script src="../public/js/jcarousel-master/examples/basic/jcarousel.basic.js"></script>
+
+    </body>
+</html>

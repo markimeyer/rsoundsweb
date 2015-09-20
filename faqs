@@ -1,0 +1,456 @@
+<!doctype html>
+
+<!--[if IE 7 ]>
+<html lang="en-gb" class="isie ie7 oldie no-js">
+<![endif]-->
+
+<!--[if IE 8 ]>
+<html lang="en-gb" class="isie ie8 oldie no-js">
+<![endif]-->
+
+<!--[if IE 9 ]>
+<html lang="en-gb" class="isie ie9 no-js">
+<![endif]-->
+
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en-gb" class="no-js">
+<!--<![endif]-->
+
+    <head>
+        <title>Preguntas Frecuentes | Random Sounds</title>
+        
+        <meta charset="utf-8">
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <link rel="shortcut icon" href="public/img/favicon.ico">
+        <!-- Facebook Open Graph -->
+        <meta property="og:title" content="Preguntas Frecuentes | Random Sounds" />
+        <meta property="og:locale" content="es_ES" />
+        <meta property="og:image" content="http://randomsounds.com.py/public/img/fblink.png" />
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,800,700italic,700,600italic,600,400italic,300italic,300|Roboto:100,300,400,500,700&amp;subset=latin,latin-ext" type="text/css" />
+
+        <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+        <link rel="stylesheet" href="public/css/reset.css" />
+        <link rel="stylesheet" href="public/css/style.css" />
+        <link rel="stylesheet" href="public/css/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" media="screen" href="public/css/responsive-leyouts.css" type="text/css" />
+        <link rel="stylesheet" href="public/js/sticky-menu/core.css">
+        <link rel="stylesheet" href="public/js/jcarousel/skin.css" />
+        <link rel="stylesheet" href="public/js/jcarousel/skin2.css" />
+        <link rel="stylesheet" href="public/js/accordion/accordion.css" media="all">
+
+        <script type="text/javascript" src="public/js/universal/jquery.js"></script>
+    </head>
+
+    <body>
+        <div class="site_wrapper">
+            
+            				
+				<script>
+				  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				  ga('create', 'UA-55693283-1', 'auto');
+				  ga('send', 'pageview');
+
+				</script>
+
+				<header >
+					<div id="trueHeader">
+						<div class="wrapper">
+							<div class="container">
+
+								<div class="logo_main"><a href="Random Sounds" id="logo"></a></div>
+
+								<div class="menu_main">
+									<div class="joosa top_links"><strong></strong> <a href="contacto" ></a></div>
+									<nav id="access" class="access" role="navigation">
+										<div id="menu" class="menu">
+											<ul id="tiny">
+												<li>
+													<a href="/" >Inicio</a>
+												</li>
+												<li>
+													<a href="distribucion" >Distribución</a>
+												</li>
+												<li>
+													<a href="servicios" >Servicios</a>
+												</li>
+												<li>
+													<a href="artistas" >Artistas</a>
+												</li>
+												<li>
+													<a href="faqs" class="active">FAQs</a>
+												</li>
+												<li>
+													<a href="contacto" >Contacto</a>
+												</li>
+											</ul>
+										</div>
+									</nav>
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</header>            
+            <div class="clearfix"></div>
+
+            <div class="page_title">
+                <div class="container">
+                    <div class="title">
+                        <h1>FAQs</h1>
+                    </div>
+                    <div class="pagenation">&nbsp;<a href="/">Inicio</a> <i>/</i> FAQs</div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="content_left">
+                    <div class="accrodation">
+                        <h2>Preguntas <strong>Frecuentes</strong></h2>
+                        
+                        <span class="acc-trigger active"><a href="#">¿En qué consiste la distribución digital?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                La distribución digital consiste en proveer los materiales musicales a plataformas de Internet: tiendas, radios y servicios de streaming. Somos intermediarios entre los artistas y las plataformas.
+                            </div>
+                        </div>
+
+                        <span class="acc-trigger"><a href="#">¿Cuáles son las ventajas?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                Las principales ventajas de la distribución digital son:
+
+                                <ul>
+                                    <li>- Contacto directo: menos intermediarios entre el artista y el fan.</li>
+                                    <li>- Disponibilidad global: los materiales se pueden vender en cualquier país del mundo.</li>
+                                    <li>- Status e imagen: la imagen de la banda o artista aumenta al estar en tiendas de nivel mundial.</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <span class="acc-trigger"><a href="#">¿Por qué puedo confiar en Random Sounds?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                Creemos que la confianza se gana, así que trabajamos duro para ganar la confianza de cada cliente. Podés ver nuestras cuentas en las redes sociales (Facebook | Twitter | Instagram) para ver que dicen otros artistas que ya trabajan con nosotros.
+                            </div>
+                        </div>
+
+                        <span class="acc-trigger"><a href="#">¿Puedo subir yo directamente mis canciones a todas estas plataformas?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                La respuesta es simple: no. Las plataformas trabajan con intermediarios, ya que trabajar directamente con cada artista sería imposible. Millones y millones de canciones a las cuales realizar controles de calidad, actualizaciones en servidores, informes, pagos, etc. ¡Random Sounds hace todo eso por ellos!
+                            </div>
+                        </div>
+
+                        <span class="acc-trigger"><a href="#">¿Cuánto me va a costar distribuir mi música?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                La suscripción se paga una sola vez por lanzamiento, nada de pagos anuales.<br />
+
+                                <ul>
+                                    <li>- 100.000 Gs. para un Sigle</li>
+                                    <li>- 200.000 Gs. para un EP</li>
+                                    <li>- 400.000 Gs. para un Álbum</li>
+                                <ul>
+
+                                <br />
+                                Esto incluye distribución a todas las plataformas con las que trabajamos de por vida, además de afiches, gacetillas de prensa para tu difusión y una página en nuestro sitio web!<br /><br />
+
+                                Además la posibilidad de agregar otros servicios a tu lanzamiento con un costo agregado.<br />
+                                Obs: A todos los costos se le añaden los impuestos correspondientes. (En Paraguay, IVA de 10%)
+                            </div>
+                        </div>
+                        
+                        <span class="acc-trigger"><a href="#">¿Qué son los códigos ISRC y UPC? ¿Puedo distribuir mi música sin ellos?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                <p>Un código de barras UPC es un número único formado por una serie de 12 dígitos que identifica su producto específico (en este caso, un álbum) de los demás del mercado. Necesitas un código UPC para realizar la distribución digital.</p>
+
+                                <br />
+
+                                <p>Si ya tiene un código UPC para su álbum, puede usar ese. Si no, puede comprar uno a Random Sounds. Tienen un costo de Gs. 100.000 y es válido para toda la vida.</p>
+
+                                <br />
+
+                                <p>El ISRC (o Código Estándar Internacional de Grabación) es definido por el código ISO 3901, es un código estándar de carácter internacional para identificar únicamente grabaciones de audio y videos musicales.</p>
+
+                                <br />
+
+                                <p>Random Sounds regala a los artistas códigos ISRC para todas sus canciones.</p>
+
+                                <br />
+
+                                <p>Los códigos ISRC y UPC son necesarios para hacer la distribución digital, no se puede hacerla sin ellos.</p>
+                            </div>
+                        </div>
+                        
+                        <span class="acc-trigger"><a href="#">¿Qué incluye el precio de suscripción que tengo que pagar?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                Cobramos el precio de suscripción una sola vez por toda la vida, por este trabajo:
+                                <ul>
+                                    <li>- Escaneado de la portada del álbum - recorte, balanceo y ajustes en los colores, para que se vea lo mejor posible.</li>
+                                    <li>- Cambio de tamaño de la portada del álbum a un total de 8 resoluciones y formatos diferentes, necesarios para las diferentes plataformas
+                                    <li>- Conversión del audio de CD a ficheros WAV.</li>
+                                    <li>- Conversión de los ficheros WAV a MP3 de alta calidad (320 kbps) y a MP3 de calidad estandard (192 kbps).</li>
+                                    <li>- Distribución de todos los archivos de audio, imagen de portada y metadata de las canciones a los servidores de todas las plataformas con las que trabajamos.</li>
+                                    <li>- Creación de un perfil web de artista, donde puede poner su biografía, fotos, miembros, links a redes sociales y por supuesto la carga automática de su discografía distribuida.</li>
+                                    <li>- Diseño de 3 afiches promocionales que serán enviados al artista.</li>
+                                    <li>- Redacción de gacetilla de prensa y difusión de la misma a medios de prensa, también serán enviados al artista.</li>
+                                <ul>
+                            </div>
+                        </div>
+
+                        <span class="acc-trigger"><a href="#">¿Cómo puedo realizar los pagos?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                <p>Los pagos se pueden realizar en efectivo en las oficinas de Random Sounds (para artistas de Paraguay) o vía PayPal (artistas de todo el mundo).</p>
+                            </div>
+                        </div>
+
+                        <span class="acc-trigger"><a href="#">¿Cómo recibo mis pagos?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                <p>Las plataformas elaboran los informes de ventas de todos los artistas y posteriormente envían a Random Sounds los pagos correspondientes.
+Es por eso que pagamos trimestralmente en efectivo (sólo Paraguay) o vía PayPal (todo el mundo) a los artistas las regalías de su música.</p>
+                            </div>
+                        </div>
+
+                        <span class="acc-trigger"><a href="#">¿Cuándo recibo mis pagos?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                <p>
+                                    <ul>
+                                        <li>- Ventas y reproducciones de Enero a Marzo: A partir del 15 de Junio</li>
+                                        <li>- Ventas y reproducciones de Abril a Junio: A partir del 15 de Septiembre</li>
+                                        <li>- Ventas y reproducciones de Julio a Septiembre: A partir del 15 de Diciembre</li>
+                                        <li>- Ventas y reproducciones de Octubre a Diciembre: A partir del 15 de Marzo</li>
+                                    <ul>
+                                </p>
+                            </div>
+                        </div>
+
+                        <span class="acc-trigger"><a href="#">¿Qué necesito para distribuir?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                <p>
+                                    <ul>
+                                        <li>- Ser dueño de los derechos de autor de las canciones a distribuir.</li>
+                                        <li>- Tener las canciones grabadas con calidad de estudio (WAV o MP3 a 192 kbps)</li>
+                                        <li>- Firmar un contrato no exclusivo de cesión de licencias de distribución. (Esto para que podamos distribuir de manera legal. No te preocupes, ¡los derechos se quedan contigo!).</li>
+                                        <li>- Abonar el costo según el material a ser distribuido.</li>
+                                    <ul>
+                                </p>
+                            </div>
+                        </div>
+
+                        <span class="acc-trigger"><a href="#">¿Puede Random Sounds compartir mis datos?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                <p>
+                                    No, siempre respetamos tu privacidad. Los datos de ingresos e inversiones de cada artista son confidenciales.
+                                </p>
+                            </div>
+                        </div>
+
+                        <span class="acc-trigger"><a href="#">¿Hay que firmar algo?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                <p>
+                                    Si, hay que firmar un contrato de distribución por 1 año, este es renovable.
+                                </p>
+                            </div>
+                        </div>
+
+                        <span class="acc-trigger"><a href="#">¿En qué consiste el contrato?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                <p>
+                                    Básicamente en ese contrato se afirma que tenés los derechos sobre las canciones que querés distribuir, y que cedés a Random Sounds una licencia de distribución. El contrato es de 1 año con posibilidad de renovación. No te preocupes, no hay letras pequeñas, es sólo para que la distribución sea legal y no hayan malentendidos.
+                                </p>
+                            </div>
+                        </div>
+
+                        <span class="acc-trigger"><a href="#">¿Por qué tengo que pagar para aparecer en los charts como Billboard?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                <p>
+                                    Lastimosamente no cualquier música es elegible para los rankings, los artistas deben estar registrados.<br />
+                                    
+                                    Así funciona:<br />
+                                    Cada día las tiendas reportan tus ventas a los rankings del país en donde la canción es vendida, pero si no estás registrado con el ranking, las compañías de los rankings simplemente van a ignorar tus ventas. Si no estás registrado podés vender 10.000 copias y nunca llegar a ser rankeado. ¡Un desperdicio!
+                                </p>
+                            </div>
+                        </div>
+
+                        <span class="acc-trigger"><a href="#">¿Puedo vender mi música vía crédito de celular (saldo)?</a></span>
+
+                        <div class="acc-container">
+                            <div class="content">
+                                <p>
+                                    Actualmente estamos trabajando en una nueva plataforma propia llamada 'Random Play', donde se podrá comprar música mediante saldo de las compañías telefonicas. Inicialmente estará solo disponible para Paraguay y será exclusiva para los artistas que distribuyan a través de Random Sounds.
+                                </p>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+            
+            <div class="clearfix"></div>
+            
+            <div class="mar_top5"></div>
+            
+            
+			<div class="footer">
+				<div class="container">
+					<div class="one_third">
+						<!--<div class="footer_logo"><img src="public/img/footer-logo.png" alt="" /></div>-->
+						<h2>Atención al <i>Cliente</i></h2>
+						<ul class="contact_address">
+							<li><i class="fa fa-map-marker fa-lg"></i>&nbsp; Patria esq. Brasilia<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edif. Villa Madrid<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asunción, Paraguay</li><br>
+							<li><i class="fa fa-phone"></i>&nbsp; +595 (971) 391 021</li>
+							<li><i class="fa fa-phone"></i>&nbsp; +595 (21) 200 931</li><br>
+							<li><i class="fa fa-clock-o"></i> Horarios de Atención:</li>
+							<li>Lunes a Viernes de 9 a 18 horas.</li>
+							<!--<li><img src="public/img/footer-wmap.png" alt="" /></li>-->
+						</ul>
+					</div>
+
+					
+					<div id="redesociales" class="one_third">
+                        <h2>Redes <i>Sociales</i></h2>
+                        
+                        <a href="https://www.facebook.com/RandomSounds" target="_blank">
+                        <img src="public/img/social-footer/facebookk.png" alt="Facebook" class="iconredes" />
+                        </a>
+                    
+                        <a href="https://twitter.com/randomsounds_" target="_blank">
+                        <img src="public/img/social-footer/twitter.png" alt="Twitter" class="iconredes" />
+                        </a>
+                        
+                        <a href="http://instagram.com/randomsounds_" target="_blank">
+                        <img src="public/img/social-footer/instagramm.png" alt="Instagram" class="iconredes" />
+                        </a>
+                    
+                        <br>
+
+                        <a href="https://www.youtube.com/user/RandomSoundsTV" target="_blank">
+                        <img src="public/img/social-footer/youtubee.png" alt="YouTube" class="iconredes" />
+                        </a>
+                    
+                        <a href="https://www.linkedin.com/company/random-sounds" target="_blank">
+                        <img src="public/img/social-footer/linkedin.png" alt="LinkedIn" class="iconredes" />
+                        </a>
+
+                        <a href="https://plus.google.com/+RandomSoundsAsuncion" target="_blank">
+                        <img src="public/img/social-footer/google-plus.png" alt="Google Plus" class="iconredes" />
+                        </a>
+                    </div>
+					
+					<div class="third_custom">
+						
+						<h2>Enlaces <i>Internos</i></h2>
+						
+						<ul class="list">
+							<li><a href="home"><i class="fa fa-angle-right"></i> Inicio</a></li>
+							<li><a href="servicios"><i class="fa fa-angle-right"></i> Servicios</a></li>
+							<li><a href="artistas"><i class="fa fa-angle-right"></i> Artistas</a></li>
+							<li><a href="distribucion"><i class="fa fa-angle-right"></i> Distribución</a></li>
+							<li><a href="faqs"><i class="fa fa-angle-right"></i> FAQs</a></li>
+							<li><a href="contacto"><i class="fa fa-angle-right"></i> Contacto</a></li>
+						</ul>
+					
+					</div>
+
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="copyright_info">
+				<div class="container">
+					<div class="one_half">
+						<b>Copyright © 2015 Random Sounds. Todos los derechos reservados.</b>
+					</div>
+					
+				</div>
+			</div>
+            
+            <a href="#" class="scrollup">Arriba</a>
+        </div>
+
+        <script src="public/js/style-switcher/jquery-1.js"></script>
+        <script src="public/js/style-switcher/styleselector.js"></script>
+        <script src="public/js/mainmenu/ddsmoothmenu.js"></script>
+        <script src="public/js/mainmenu/selectnav.js"></script>
+        <script src="public/js/jcarousel/jquery.jcarousel.min.js"></script>
+        <script src="public/js/mainmenu/scripts.js"></script>
+        
+        <script type="text/javascript">
+            $(document).ready(function(){
+            
+                $(window).scroll(function(){
+                    if ($(this).scrollTop() > 100) {
+                        $(".scrollup").fadeIn();
+                    } else {
+                        $(".scrollup").fadeOut();
+                    }
+                });
+            
+                $(".scrollup").click(function(){
+                    $("html, body").animate({ scrollTop: 0 }, 500);
+                    return false;
+                });
+            
+            });
+        </script>
+
+        <script type="text/javascript">
+            jQuery(document).ready(function() {
+                jQuery("#mycarousel").jcarousel();
+            });
+            
+            jQuery(document).ready(function() {
+                jQuery("#mycarouseltwo").jcarousel();
+            });
+            
+            jQuery(document).ready(function() {
+                jQuery("#mycarouselthree").jcarousel();
+            });
+            
+            jQuery(document).ready(function() {
+                jQuery("#mycarouselfour").jcarousel();
+            });
+        </script>
+
+        <script type="text/javascript" src="public/js/accordion/custom.js"></script>
+        <script type="text/javascript" src="public/js/sticky-menu/core.js"></script>
+        <script type="text/javascript" src="public/js/sticky-menu/modernizr.custom.75180.js"></script>
+    </body>
+</html>
